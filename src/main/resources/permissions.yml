@@ -1,0 +1,3 @@
+command:
+  reload: sf.reload
+  help: sf.help

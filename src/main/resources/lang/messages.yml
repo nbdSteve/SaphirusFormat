@@ -1,0 +1,9 @@
+help:
+  action-bar: false
+  text:
+    - '&5&lFormat&7| default help message for SaphirusFormat version {version}.'
+
+reload:
+  action-bar: true
+  text:
+    - '&5&lFormat&7| You have successfully reloaded the plugin, version {version}.'

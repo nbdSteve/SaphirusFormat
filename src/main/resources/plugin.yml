@@ -1,0 +1,14 @@
+name: SaphirusFormat
+version: ${project.version}
+main: gg.steve.mc.saphirus.sf.SaphirusFormat
+api-version: 1.16
+depend: [ PlaceholderAPI, Vault ]
+softdepend: [ Essentials ]
+authors: [ stevegoodhill ]
+commands:
+  format:
+    usage: /<command>
+    description: Main command for SaphirusFormat, use /sf help for info
+    aliases:
+      - sf
+      - saphirusformat
